@@ -73,7 +73,7 @@ BNB SMART CHAIN USDT : 0x73fbea7cc2521d5e4c95e8763c8de43ec7219bd5)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3500&color=C19A6B&center=true&vCenter=true&width=500&lines=Stay+cozy.+Stay+cyberpunk.+☕⚡;Thanks+for+visiting+my+Neo-Coffee+space." />
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3500&color=C19A6B&center=true&vCenter=true&width=500&lines=SStay+cozy.+Stay+cyberpunk.+☕⚡;TThanks+for+visiting." />
 </p>
 
 <p align="center">
