@@ -12,6 +12,10 @@
 
 ---
 
+
+# 💫 About Me:
+### Hi there 👋  <br><br>- 🔭 I'm currently working on **Vibe Coding**, a fun project mixing design and code.  <br>- 🤝 I'm looking to collaborate on **AI projects**, from chatbots to smart apps.  <br>- 🆘 I'm looking for help with **Education Purposes**, making learning easier for everyone.  <br>- 🌱 I'm currently learning **Vibe Coding** to sharpen my creative coding skills.  <br>- 💬 Ask me about **Python, GitHub tips, or cool coding tools**.  <br>- ⚡ Fun fact: I once built a mini game engine just to learn how games work.  <br><br>---<br><br>### 🛠️ Languages & Tools  <br>![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  <br>![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)  <br>![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)  <br>![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  <br>![VS Code](https://img.shields.io/badge/VS%20Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white)  <br><br>---<br><br>
+
 # 🔥 Identity
 
 A mix of edge:
@@ -20,31 +24,6 @@ A mix of edge:
 - ⚡ Building **inspired apps for shan people** with warm Espresso    
 - 🔧 Specializing in **AI, automation, backend, and smooth UX**   
 - 🔥 Goal: Create tools that feel warm, fast, elegant, and futuristic to make an update version for S 
-
----
-
-# 🎨 Tech Stack 
-
-### **Languages & Frameworks**
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,nodejs,react,nextjs,tailwind,express,html,css" />
-</p>
-
-### **Tools & Platforms**
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,docker,postman,figma,vscode" />
-</p>
-
----
-
-# 📁 Vibe Badges
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Coffee-Powered-%23C19A6B?style=for-the-badge&logo=buymeacoffee&logoColor=white" />
-  <img src="https://img.shields.io/badge/Neon%20Coder-Cyberpunk-%23FF0090?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Full--Stack-Developer-%235c4336?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/AI%20Automation-Engineer-%23C19A6B?style=for-the-badge" />
-</p>
 
 ---
 
@@ -64,25 +43,34 @@ A mix of edge:
 
 ---
 
-# 🔥 Featured Projects — POS project for Tai Yai  
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)]
+(https://www.facebook.com/share/1MJwVwsxx2/)
 
-### **🌃 Espresso Engine — AI Automation Core**  
-A warm yet cyber-tech backend engine for automation tasks.
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)] 
+(https://youtube.com/@yont_sein?si=Jws5XCTLtQSILtav)
 
-### **⚡ MochaBot — AI Micro Assistant**  
-Fast. Small. Efficient. Perfect for automation workflows.
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=flat-square&logo=swift&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat-square&logo=netlify&logoColor=#00C7B7) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=flat-square&logo=.net&logoColor=white)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=aiboy5&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=aiboy5&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=aiboy5&icon=6&color=0)](https://visitcount.itsvg.in)
 
-# 🌐 Connect with Me
+  ## 💰 You can help me by Donating
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/YONT) [![Binance]
+BNB SMART CHAIN USDT : 0x73fbea7cc2521d5e4c95e8763c8de43ec7219bd5) 
 
-<p align="left">
-  <a href="https://github.com/aiboy5">
-    <img src="https://skillicons.dev/icons?i=github" width="42">
-  </a>
-</p>
-
----
+  
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3500&color=C19A6B&center=true&vCenter=true&width=500&lines=Stay+cozy.+Stay+cyberpunk.+☕⚡;Thanks+for+visiting+my+Neo-Coffee+space." />
