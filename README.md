@@ -1,89 +1,113 @@
-<!-- HEADER -->
+<!-- HEADER: Cyberpunk Coffee Glow -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=32&duration=2800&pause=700&color=C19A6B&center=true&vCenter=true&width=650&lines=Hey,+I'm+Aiboy5+👋;Fueled+by+Coffee+%26+Code;Full-Stack+Developer;AI+%26+Automation+Builder" />
-</p>
-
-<p align="center">
-  <img src="https://github.com/aiboy5.png" width="150" style="border-radius:50%; border: 3px solid #C19A6B;">
+  <img src="https://readme-typing-svg.herokuapp.com?size=32&duration=3000&pause=600&color=C19A6B&center=true&vCenter=true&width=700&lines=Aiboy5+—+Coffee+Fueled+Coder+☕⚡;Crafting+Cyberpunk+Experiences;Full-Stack+Developer;Automation+%26+AI+Engineer">
 </p>
 
 ---
 
-# ☕ About Me
-
-Warm coffee, clean UI, modern builds.
-
-- 🌱 Crafting **modern apps with clean, warm aesthetics**  
-- ☕ Runs on **espresso, curiosity, and JavaScript**  
-- 🤖 Exploring **AI, automation, & cloud engineering**  
-- 🛠 Loves building polished tools with smooth UX  
-- 🎯 Goal: Create elegant, fast, human-friendly technologies  
+<!-- PROFILE IMAGE WITH WOOD TEXTURE FRAME -->
+<p align="center">
+  <img src="https://github.com/aiboy5.png" width="160" style="border-radius:20px; border: 4px solid #3E2723; box-shadow: 0px 0px 25px #C19A6B;">
+</p>
 
 ---
 
-# 🛠️ Tech Stack — Coffee Palette
+# 🔥 Cyber-Coffee Identity
 
-### Languages & Frameworks  
+A mix of **coffee warmth + neon edge**:
+
+- ☕ Powered by cold brew & late-night coding  
+- ⚡ Building **cyberpunk-inspired apps** with warm latte gradients  
+- 🔧 Specializing in **AI, automation, backend, and smooth UX**  
+- 🌌 Aesthetic: *"Cozy café meets neon city nights"*  
+- 🔥 Goal: Create tools that feel warm, fast, elegant, and futuristic  
+
+---
+
+# 🎨 Latte Gradient Tech Stack (Cyber Coffee Edition)
+
+### **Languages & Frameworks**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,nodejs,react,nextjs,tailwind,html,css,express" />
+  <img src="https://skillicons.dev/icons?i=js,ts,python,nodejs,react,nextjs,tailwind,express,html,css" />
 </p>
 
-### Tools & Platforms  
+### **Tools & Platforms**
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,docker,postman,figma,vscode" />
 </p>
 
 ---
 
-# 📊 GitHub Stats — Coffee Theme
+# 📁 Coffee-Vibe Badges
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=aiboy5&show_icons=true&title_color=C19A6B&icon_color=C19A6B&text_color=D8C3A5&bg_color=2e2420" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=aiboy5&theme=calm&ring=C19A6B&fire=C19A6B&currStreakLabel=C19A6B&sideNums=D8C3A5&sideLabels=D8C3A5&dates=8D7B68&background=2e2420" />
+  <img src="https://img.shields.io/badge/Coffee-Powered-%23C19A6B?style=for-the-badge&logo=buymeacoffee&logoColor=white" />
+  <img src="https://img.shields.io/badge/Neon%20Coder-Cyberpunk-%23FF0090?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Full--Stack-Developer-%235c4336?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AI%20Automation-Engineer-%23C19A6B?style=for-the-badge" />
 </p>
 
 ---
 
-# 🌱 Activity Graph — Mocha Theme
+# 🌫 Latte Gradient GitHub Stats
+
+<div align="center">
+  
+  <!-- Stats Card -->
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=aiboy5&show_icons=true&title_color=C19A6B&icon_color=C19A6B&text_color=E8DCC2&bg_color=2e2420" />
+  
+  <!-- Streak Card -->
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=aiboy5&background=2e2420&ring=C19A6B&fire=C19A6B&currStreakLabel=C19A6B&sideNums=D8C3A5&sideLabels=D8C3A5&dates=8D7B68&hide_border=false" />
+
+</div>
+
+---
+
+# 🪵 Rustic Wood × Neon Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aiboy5&bg_color=2e2420&color=C19A6B&line=C19A6B&point=E6D5C3&area_color=5c4336&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aiboy5&bg_color=3e2723&color=C19A6B&line=FFB684&point=F4E2D8&area_color=6b4f3f&hide_border=true" />
 </p>
 
 ---
 
-# 🐍 Coffee Snake Animation
+# 🐍 Cyber Coffee Snake Animation
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ---
 
-# ☕ Featured Projects — Minimal Latte Style
+# 🔥 Featured Projects — Cyber Coffee Showcase
 
-- 🫘 **Brew UI** — A warm, modern dashboard inspired by coffee tones  
-- 🔧 **AutoBean** — A smooth automation tool with simple UX  
-- 🤖 **Espresso AI** — Fast micro-AI utilities (Python/Node)  
+### **🌃 Espresso Engine — AI Automation Core**  
+A warm yet cyber-tech backend engine for automation tasks.
 
-*(Tell me your real projects and I’ll craft classy descriptions.)*
+### **☕ LatteUI — Cozy + Futuristic UI Kit**  
+Combines *coffee shop warmth* with *neon city vibes*.
+
+### **⚡ MochaBot — AI Micro Assistant**  
+Fast. Small. Efficient. Perfect for automation workflows.
+
+*(Tell me your real repos and I'll redesign this section.)*
 
 ---
 
-# 🌐 Connect With Me
+# 🌐 Connect with Me
 
 <p align="left">
   <a href="https://github.com/aiboy5">
-    <img src="https://skillicons.dev/icons?i=github" width="40">
+    <img src="https://skillicons.dev/icons?i=github" width="42">
   </a>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3500&color=C19A6B&center=true&vCenter=true&width=500&lines=Thanks+for+sipping+by!+☕;Let’s+build+something+smooth." />
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3500&color=C19A6B&center=true&vCenter=true&width=500&lines=Stay+cozy.+Stay+cyberpunk.+☕⚡;Thanks+for+visiting+my+Neo-Coffee+space." />
 </p>
 
 <p align="center">
-  <strong>☕ Crafted with a Coffee Vibe by @aiboy5</strong>
+  <strong>☕🔥 Designed by @aiboy5 — Coffee × Cyberpunk Edition</strong>
 </p>
