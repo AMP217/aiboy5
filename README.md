@@ -1,6 +1,6 @@
 <!-- HEADER: Cyberpunk Coffee Glow -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=32&duration=3000&pause=600&color=C19A6B&center=true&vCenter=true&width=700&lines=Aiboy5+—+Coffee+Fueled+Coder+☕⚡;Crafting+Cyberpunk+Experiences;Full-Stack+Developer;Automation+%26+AI+Engineer">
+  <img src="https://readme-typing-svg.herokuapp.com?size=32&duration=3000&pause=600&color=C19A6B&center=true&vCenter=true&width=700&lines=SAI+YONT+SEIN+—+Coffee+Fueled+Coder+☕⚡;Crafting+Experiences;Full-Stack+Developer;Automation+%26+AI+Engineer">
 </p>
 
 ---
@@ -12,19 +12,18 @@
 
 ---
 
-# 🔥 Cyber-Coffee Identity
+# 🔥 Identity
 
-A mix of **coffee warmth + neon edge**:
+A mix of edge:
 
 - ☕ Powered by cold brew & late-night coding  
-- ⚡ Building **cyberpunk-inspired apps** with warm latte gradients  
-- 🔧 Specializing in **AI, automation, backend, and smooth UX**  
-- 🌌 Aesthetic: *"Cozy café meets neon city nights"*  
-- 🔥 Goal: Create tools that feel warm, fast, elegant, and futuristic  
+- ⚡ Building **inspired apps for shan people** with warm Espresso    
+- 🔧 Specializing in **AI, automation, backend, and smooth UX**   
+- 🔥 Goal: Create tools that feel warm, fast, elegant, and futuristic to make an update version for S 
 
 ---
 
-# 🎨 Latte Gradient Tech Stack (Cyber Coffee Edition)
+# 🎨 Tech Stack 
 
 ### **Languages & Frameworks**
 <p align="center">
@@ -38,7 +37,7 @@ A mix of **coffee warmth + neon edge**:
 
 ---
 
-# 📁 Coffee-Vibe Badges
+# 📁 Vibe Badges
 
 <p align="center">
   <img src="https://img.shields.io/badge/Coffee-Powered-%23C19A6B?style=for-the-badge&logo=buymeacoffee&logoColor=white" />
@@ -49,7 +48,7 @@ A mix of **coffee warmth + neon edge**:
 
 ---
 
-# 🌫 Latte Gradient GitHub Stats
+# 🌫 GitHub Stats
 
 <div align="center">
   
@@ -63,7 +62,7 @@ A mix of **coffee warmth + neon edge**:
 
 ---
 
-# 🪵 Rustic Wood × Neon Graph
+# Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=aiboy5&bg_color=3e2723&color=C19A6B&line=FFB684&point=F4E2D8&area_color=6b4f3f&hide_border=true" />
@@ -71,7 +70,7 @@ A mix of **coffee warmth + neon edge**:
 
 ---
 
-# 🐍 Cyber Coffee Snake Animation
+# 🐍 Snake Animation
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
@@ -79,18 +78,13 @@ A mix of **coffee warmth + neon edge**:
 
 ---
 
-# 🔥 Featured Projects — Cyber Coffee Showcase
+# 🔥 Featured Projects — POS project for Tai Yai  
 
 ### **🌃 Espresso Engine — AI Automation Core**  
 A warm yet cyber-tech backend engine for automation tasks.
 
-### **☕ LatteUI — Cozy + Futuristic UI Kit**  
-Combines *coffee shop warmth* with *neon city vibes*.
-
 ### **⚡ MochaBot — AI Micro Assistant**  
 Fast. Small. Efficient. Perfect for automation workflows.
-
-*(Tell me your real repos and I'll redesign this section.)*
 
 ---
 
@@ -109,5 +103,5 @@ Fast. Small. Efficient. Perfect for automation workflows.
 </p>
 
 <p align="center">
-  <strong>☕🔥 Designed by @aiboy5 — Coffee × Cyberpunk Edition</strong>
+  <strong>☕🔥 Designed by @aiboy5 —AI Edition</strong>
 </p>
