@@ -48,20 +48,6 @@ A mix of edge:
 
 ---
 
-# 🌫 GitHub Stats
-
-<div align="center">
-  
-  <!-- Stats Card -->
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=aiboy5&show_icons=true&title_color=C19A6B&icon_color=C19A6B&text_color=E8DCC2&bg_color=2e2420" />
-  
-  <!-- Streak Card -->
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=aiboy5&background=2e2420&ring=C19A6B&fire=C19A6B&currStreakLabel=C19A6B&sideNums=D8C3A5&sideLabels=D8C3A5&dates=8D7B68&hide_border=false" />
-
-</div>
-
----
-
 # Graph
 
 <p align="center">
